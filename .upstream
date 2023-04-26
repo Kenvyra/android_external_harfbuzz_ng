@@ -1,0 +1,5 @@
+{
+    "name": "yaap",
+    "fetch": "https://github.com/yaap/external_harfbuzz_ng",
+    "revision": "refs/heads/thirteen"
+}
